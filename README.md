@@ -50,11 +50,9 @@ Everything here is mine, not a client's. I build a working version first, then r
 
 ## 📦 Things worth a look
 
-| Repo | What it does |
-|---|---|
-| **[yt-education-agent](https://github.com/onlinewebst-ship-it/yt-education-agent)** | 24/7 agent watching educational YouTube channels and turning them into a living knowledge document — concepts, skills, tools, changelog. No API key needed to run it. |
-| **[-Travel-Price-Tracker](https://github.com/onlinewebst-ship-it/-Travel-Price-Tracker)** | Flight and hotel price tracking over time on official travel APIs — no scraping, no proxies, GBP by default. |
-| **[hermes-template](https://github.com/onlinewebst-ship-it/hermes-template)** | Starter template for Hermes agent projects. [Live demo](https://hermes-template.vercel.app) |
+- **[yt-education-agent](https://github.com/onlinewebst-ship-it/yt-education-agent)** — 24/7 agent watching educational YouTube channels and turning them into a living knowledge document: concepts, skills, tools and a changelog. Runs with no API key.
+- **[-Travel-Price-Tracker](https://github.com/onlinewebst-ship-it/-Travel-Price-Tracker)** — flight and hotel price tracking over time on official travel APIs. No scraping, no proxies, GBP by default.
+- **[hermes-template](https://github.com/onlinewebst-ship-it/hermes-template)** — starter template for Hermes agent projects. [Live demo](https://hermes-template.vercel.app)
 
 ## 📫 Get in touch
 
