@@ -2,6 +2,9 @@
 
 <img src="./banner.svg" alt="Woody — Online Web Studio" width="100%">
 
+![Followers](https://img.shields.io/github/followers/onlinewebst-ship-it?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
+![Total Stars](https://img.shields.io/github/stars/onlinewebst-ship-it?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total%20Stars&logo=github)
+
 </div>
 
 # Hi, I'm Woody 👋
@@ -9,6 +12,20 @@
 I run **[Online Web Studio](https://onlinewebstudio.co.uk/)**, a web and digital marketing studio in Grimsby, UK. I build the tooling behind it — AI agents, WordPress automations and data pipelines that take the manual work out of SEO, reporting and lead generation.
 
 Everything here is mine, not a client's. I build a working version first, then refine it — most of it in Python, most of it on a cron.
+
+## `> whoami`
+
+```python
+woody = {
+    "name":  "Paul 'Woody' Wood",
+    "role":  "Founder, Online Web Studio",
+    "based": "Grimsby, UK",
+    "team":  "Solo operator — the staff are agents",
+    "motto": "Ship a working version first, then refine it",
+    "focus": "AI agents that do the work, not just talk about it",
+    "rules": "Nothing client-owned in this account, ever",
+}
+```
 
 ## 🔭 What I'm working on
 
