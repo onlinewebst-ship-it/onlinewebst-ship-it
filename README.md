@@ -74,7 +74,7 @@ woody = {
 ## 📫 Get in touch
 
 - 🌐 **[onlinewebstudio.co.uk](https://onlinewebstudio.co.uk/)**
-- 💬 **[WhatsApp — 07706 970229](https://wa.me/447706970229)**
+- 💬 **[WhatsApp](https://wa.me/447706970229)**
 - 👔 **[LinkedIn — in/woodypaul](https://www.linkedin.com/in/woodypaul/)**
 - ✉️ **[online.webst@gmail.com](mailto:online.webst@gmail.com)**
 
